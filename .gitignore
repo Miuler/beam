@@ -64,6 +64,7 @@ sdks/python/coverage.xml
 **/*.ipr
 **/*.iws
 **/out/**/*
+**/.fleet/**/*
 
 # Ignore Eclipse files.
 **/.classpath
@@ -137,3 +138,5 @@ website/www/yarn-error.log
 
 # Ignore Katas auto-generated files
 **/*-remote-info.yaml
+**/*.backup
+**/.history
