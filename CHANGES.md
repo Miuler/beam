@@ -59,6 +59,7 @@
 ## I/Os
 
 * Support for Bigtable sink (Write and WriteBatch) added (Go) ([#23324](https://github.com/apache/beam/issues/23324)).
+* Support for Cosmos DB Core SQL API [#23610](https://github.com/apache/beam/pull/23610)
 
 ## New Features / Improvements
 
