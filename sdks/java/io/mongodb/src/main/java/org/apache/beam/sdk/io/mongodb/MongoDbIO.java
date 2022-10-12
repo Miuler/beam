@@ -144,7 +144,7 @@ public class MongoDbIO {
   private static final Logger LOG = LoggerFactory.getLogger(MongoDbIO.class);
 
   /** Read data from MongoDB. */
-  public static Read read() {
+  public static Read Read() {
     return new AutoValue_MongoDbIO_Read.Builder()
         .setMaxConnectionIdleTime(60000)
         .setNumSplits(0)
