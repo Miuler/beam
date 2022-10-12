@@ -136,4 +136,3 @@ playground/frontend/playground_components/pubspec.lock
 **/*.tfvars
 
 # Ignore Katas auto-generated files
-**/*-remote-info.yaml
