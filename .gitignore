@@ -65,6 +65,7 @@ sdks/python/coverage.xml
 **/*.ipr
 **/*.iws
 **/out/**/*
+**/.fleet/**/*
 
 # Ignore Eclipse files.
 **/.classpath
@@ -136,3 +137,6 @@ playground/frontend/playground_components/pubspec.lock
 **/*.tfvars
 
 # Ignore Katas auto-generated files
+**/*-remote-info.yaml
+**/*.backup
+**/.history
