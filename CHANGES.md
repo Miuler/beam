@@ -60,6 +60,7 @@
 
 * Support for X source added (Java/Python) ([#X](https://github.com/apache/beam/issues/X)).
 * Support for read from Cosmos DB Core SQL API [#23604](https://github.com/apache/beam/issues/23604)
+* Support for read from Azure Table Storage [#23604](https://github.com/apache/beam/issues/xxxxx)
 * MongoDB IO connector added (Go) ([#24575](https://github.com/apache/beam/issues/24575)).
 
 ## New Features / Improvements
